@@ -1,6 +1,6 @@
 # KalderinoBot
 
-## Instalation
+## Installation
 
 Create a .env file with the following variables and format:
 
