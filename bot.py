@@ -95,7 +95,7 @@ class KalderinoBot (commands.Bot):
         msg_clean = compiled_msg.sub("", message.content)
         reply_pool = [
             "Redis ca et je gold split", "Oh nooo", "Haha yes kalder4Yes",
-            "Est-ce que ce monde est sérieux?", "Kalderinoskip incoming kalder4No",
+            "Est-ce que ce monde est sérieux?", "Kalderinoskip incoming kalder4Yes",
             "Ici Goldospliteru, fils du grand @Kalderinofeross MrDestructoid"
         ]
         reply = random.choice(reply_pool)
